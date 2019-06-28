@@ -32,6 +32,9 @@ MIT
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 animate.css
 MIT
 The MIT License (MIT)
