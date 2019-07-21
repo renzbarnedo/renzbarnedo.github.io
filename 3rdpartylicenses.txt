@@ -35,12 +35,6 @@ MIT
 @angular/router
 MIT
 
-@ng-toolkit/universal
-MIT
-
-@nguniversal/common
-MIT
-
 animate.css
 MIT
 The MIT License (MIT)
